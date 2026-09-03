@@ -286,6 +286,6 @@ SEKLYR est un logiciel propriétaire. Le code source n'est pas ouvert.
 
 # 📬 Contact
 
-**Email :** [chteau@proton.me](mailto:chteau@proton.me)
+**Email :** [contact@seklyr.fr](mailto:contact@seklyr.fr)
 
-**Site web :** [seklyr.com](https://seklyr.com) (*Attention, le site vitrine n'est pas encore en ligne*)
+**Site web :** [seklyr.fr](https://seklyr.fr) (*Attention, le site vitrine n'est pas encore en ligne*)
